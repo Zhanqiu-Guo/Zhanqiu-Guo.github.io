@@ -2,6 +2,7 @@
 title: "DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation"
 date: 2025-05-29 00:00:00 +0000
 selected: true
+cover: /assets/images/photos/dynamem.avif
 pub: "IEEE International Conference on Robotics and Automation (ICRA)"
 pub_date: "2025"
 pub_last: "pp. 13346-13355"

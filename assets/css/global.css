@@ -158,6 +158,10 @@ html.homepage-dark .text-muted {
     color: #b8b0a5 !important;
 }
 
+html.homepage-dark .text-body {
+    color: #e7e2d8 !important;
+}
+
 html.homepage-dark .btn-primary {
     color: #121212;
     background-color: #78c6d0;
