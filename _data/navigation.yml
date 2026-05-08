@@ -4,4 +4,5 @@ pages:
 - name: Publications
   url: /publications
 - name: CV
-  url: /cv
+  url: /files/CV_Zhanqiu.pdf
+  download: true
