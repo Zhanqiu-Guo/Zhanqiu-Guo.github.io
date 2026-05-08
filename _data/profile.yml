@@ -53,7 +53,9 @@ experience:
   date: Jun. 2024 - Aug. 2024
 
 awards:
-- name: Best Paper Award, CoRL Workshop on Lifelong Learning for Home Robot
+- name: Best Paper Award
+  detail: CoRL Workshop on Lifelong Learning for Home Robot
   date: 2024
-- name: Honorable Mention, Mathematical Contest in Modeling
+- name: Honorable Mention
+  detail: Mathematical Contest in Modeling
   date: 2022
