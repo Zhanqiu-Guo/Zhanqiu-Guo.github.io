@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720" role="img" aria-labelledby="title desc">
+  <title id="title">Zhanqiu Guo initials avatar</title>
+  <desc id="desc">An abstract academic profile image with the initials ZG.</desc>
+  <rect width="720" height="720" fill="#eef2f4"/>
+  <circle cx="360" cy="332" r="214" fill="#d7e4df"/>
+  <path d="M80 672c44-135 148-214 280-214s236 79 280 214H80z" fill="#3f7f6a"/>
+  <path d="M206 170c83-70 214-72 305-6 57 41 92 103 99 170-56-34-119-52-188-52-89 0-169 30-236 89-16-73-9-143 20-201z" fill="#4f88b6"/>
+  <text x="360" y="407" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="178" font-weight="700" fill="#ffffff">ZG</text>
+</svg>
