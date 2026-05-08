@@ -118,6 +118,11 @@ div.lazy {
     font-family: Source Code Pro, monospace;
 }
 
+.publication-author,
+.publication-author:hover {
+    color: inherit;
+}
+
 html.homepage-dark body {
     background: #121212 !important;
     color: #e7e2d8;
@@ -159,6 +164,12 @@ html.homepage-dark .text-muted {
 }
 
 html.homepage-dark .text-body {
+    color: #e7e2d8 !important;
+}
+
+html.homepage-dark .publication-author,
+html.homepage-dark .publication-author:hover,
+html.homepage-dark .publication-author strong {
     color: #e7e2d8 !important;
 }
 
