@@ -16,13 +16,10 @@ huggingface: https://huggingface.co/ZhanqiuG
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am an M.S. student in the <a href="https://ml.cmu.edu/" target="_blank">Machine Learning Department</a> at <a href="https://www.cmu.edu/" target="_blank">Carnegie Mellon University</a>, expected to graduate in December 2026. My research centers on multimodal agents that interact with environments: vision-language-action models for embodied tasks, web agents that collaborate with people in browser environments, and clinical AI systems that reason over multimodal medical data.
+    I am an M.S. student in the <a href="https://ml.cmu.edu/" target="_blank">Machine Learning Department</a> at <a href="https://www.cmu.edu/" target="_blank">Carnegie Mellon University</a>, expected to graduate in December 2026. My research focuses on multimodal agents that interact with complex environments, including Vision-Language-Action models, web agents, and clinical multimodal AI systems. I am particularly interested in building models that go beyond recognizing static inputs, grounding perception, language, memory, and feedback in settings where actions have real consequences.
   </p>
   <p>
     I am currently advised by <a href="https://www.cs.cmu.edu/~cx/" target="_blank">Prof. Chenyan Xiong</a> in the <a href="https://www.cs.cmu.edu/~cxcscmu/" target="_blank">CX Research Group</a>. Before CMU, I received my B.S. in Computer Science and Mathematics from <a href="https://www.nyu.edu/" target="_blank">New York University</a>, where I was fortunate to be advised by <a href="https://www.lerrelpinto.com/" target="_blank">Prof. Lerrel Pinto</a> in the <a href="https://www.lerrelpinto.com/" target="_blank">General-purpose Robotics and AI Lab (GRAIL)</a> and by <a href="https://seyiqi.github.io/" target="_blank">Prof. Yiqiu (Artie) Shen</a>.
-  </p>
-  <p>
-    The common thread in my work is interactive intelligence: building models that do more than recognize static inputs, but instead ground perception, language, memory, and feedback in environments where actions matter.
   </p>
 
 portrait_url: /assets/images/photos/headshot.jpg
@@ -31,10 +28,10 @@ education:
 - name: Carnegie Mellon University
   dept: Machine Learning Department
   position: M.S. in Machine Learning
-  date: Aug. 2025 - Dec. 2026 expected
+  date: Aug. 2025 - Dec. 2026
 - name: New York University
-  dept: Computer Science and Mathematics
-  position: B.S., GPA 3.9/4.0
+  dept: Tandon School of Engineering
+  position: B.S. in Computer Science and Mathematics
   date: Aug. 2021 - May 2025
 
 experience:
@@ -44,15 +41,15 @@ experience:
   date: May 2026 - Aug. 2026
 - name: Depository Trust & Clearing Corporation
   dept: Technology Research & Innovation
-  position: Intern
+  position: IT Intern
   date: Jun. 2025 - Aug. 2025
 - name: Teragonia
-  dept: AI/ML Engineering
-  position: Intern
+  dept: Data Science & Artificial Intelligence (DS&AI)
+  position: AI/ML Engineer Intern
   date: Feb. 2025 - May 2025
 - name: Coleman Research
   dept: Machine Learning & Generative AI
-  position: Intern
+  position: IT Intern
   date: Jun. 2024 - Aug. 2024
 
 awards:
