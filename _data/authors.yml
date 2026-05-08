@@ -1,8 +1,60 @@
-# Authors
+"Zhanqiu Guo":
+  bold: true
+  url: https://zhanqiu-guo.github.io
 
-Zhanqiu Guo:
-  name        : "Zhanqiu (Jack) Guo"
-  email       : "zhanqiu.guo321@gmail.com"
-  bio         : "M.S. Machine Learning student at Carnegie Mellon University."
-  avatar      : "headshot.jpg"
-  github      : "Zhanqiu-Guo"
+"Wayne Wang":
+  url: https://scholar.google.com/scholar?q=Wayne+Wang
+
+"Peiqi Liu":
+  url: https://scholar.google.com/scholar?q=Peiqi+Liu+DynaMem
+
+"Mohit Warke":
+  url: https://scholar.google.com/scholar?q=Mohit+Warke
+
+"Soumith Chintala":
+  url: https://soumith.ch/
+
+"Chris Paxton":
+  url: https://cpaxton.github.io/
+
+"Nur Muhammad Mahi Shafiullah":
+  url: https://mahis.life/
+
+"Lerrel Pinto":
+  url: https://www.lerrelpinto.com/
+
+"Faria Huq":
+  url: https://scholar.google.com/scholar?q=Faria+Huq
+
+"Zora Zhiruo Wang":
+  url: https://scholar.google.com/scholar?q=Zora+Zhiruo+Wang
+
+"Venu Arvind Arangarajan":
+  url: https://scholar.google.com/scholar?q=Venu+Arvind+Arangarajan
+
+"Tianyue Ou":
+  url: https://scholar.google.com/scholar?q=Tianyue+Ou
+
+"Frank Xu":
+  url: https://scholar.google.com/scholar?q=Frank+Xu
+
+"Shuyan Zhou":
+  url: https://shuyanzhou.github.io/
+
+"Graham Neubig":
+  url: https://www.phontron.com/
+
+"Jeffrey P. Bigham":
+  url: https://www.cs.cmu.edu/~jbigham/
+
+"Yiyang Du":
+  url: https://scholar.google.com/scholar?q=Yiyang+Du
+
+"Xin Ye":
+  url: https://scholar.google.com/scholar?q=Xin+Ye
+
+"Liu Ren":
+  url: https://scholar.google.com/scholar?q=Liu+Ren
+
+"Chenyan Xiong":
+  url: https://www.cs.cmu.edu/~cx/
