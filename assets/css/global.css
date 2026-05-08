@@ -125,10 +125,16 @@ div.lazy {
 }
 
 .profile-social-icon {
+    display: inline-block;
     width: 1em;
     height: 1em;
-    object-fit: contain;
     vertical-align: -0.125em;
+}
+
+.profile-social-icon-huggingface {
+    background-color: currentColor;
+    -webkit-mask: url('../images/photos/huggingface_logo-noborder.svg') center / contain no-repeat;
+    mask: url('../images/photos/huggingface_logo-noborder.svg') center / contain no-repeat;
 }
 
 html.homepage-dark body {
