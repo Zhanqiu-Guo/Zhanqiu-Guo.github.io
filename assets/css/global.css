@@ -118,6 +118,19 @@ div.lazy {
     font-family: Source Code Pro, monospace;
 }
 
+.profile-social-link {
+    display: inline-flex;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.profile-social-icon {
+    width: 1em;
+    height: 1em;
+    object-fit: contain;
+    vertical-align: -0.125em;
+}
+
 html.homepage-dark body {
     background: #121212 !important;
     color: #e7e2d8;
