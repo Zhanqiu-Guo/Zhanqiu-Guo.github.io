@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Zhanqiu (Jack) Guo"
 title_separator          : "-"
 name                     : &name "Zhanqiu (Jack) Guo"
@@ -23,14 +23,14 @@ repository               : "Zhanqiu-Guo/Zhanqiu-Guo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.svg"
+  avatar           : "headshot.jpg"
   name             : "Zhanqiu (Jack) Guo"
   pronouns         : # example: "she/her"  
-  bio              : "M.S. Machine Learning student at CMU researching embodied AI, web agents, and efficient ML systems."
+  bio              : "M.S. Machine Learning student at CMU researching multimodal agents for physical, web, and clinical environments."
   location         : "Pittsburgh, PA"
   employer         : "Carnegie Mellon University"
   uri              : # URL
-  email            : "zhanqiu.guo321@gmail.com" 
+  email            : "zhanqiug@cs.cmu.edu" 
 
   # Academic websites
   academia         : # URL

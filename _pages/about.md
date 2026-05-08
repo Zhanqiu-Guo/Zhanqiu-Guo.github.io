@@ -12,14 +12,14 @@ redirect_from:
 <section class="home-hero">
   <p class="home-kicker">Machine learning researcher and engineer</p>
   <p class="home-lede">
-    I am an M.S. student in Machine Learning at Carnegie Mellon University, working on embodied AI, vision-language-action learning, personalized web agents, and reliable ML systems. Before CMU, I earned a B.S. in Computer Science and Mathematics from New York University.
+    I am an M.S. student in the <a href="https://ml.cmu.edu/">Machine Learning Department</a> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a>, expected to graduate in December 2026. My research centers on multimodal agents that interact with environments: vision-language-action models for embodied tasks, web agents that collaborate with people in browser environments, and clinical AI systems that reason over multimodal medical data.
   </p>
   <p>
-    My recent work connects large models with interactive environments: dynamic robot memory for open-world mobile manipulation, distribution-aware VLM/VLA mid-training, personalized intervention-aware web agents, and clinically grounded language models for radiology understanding.
+    I am currently advised by <a href="https://www.cs.cmu.edu/~cx/">Prof. Chenyan Xiong</a> in the <a href="https://www.cs.cmu.edu/~cxcscmu/">CX Research Group</a>. Before CMU, I received my B.S. in Computer Science and Mathematics from <a href="https://www.nyu.edu/">New York University</a>, where I was fortunate to be advised by <a href="https://www.lerrelpinto.com/">Prof. Lerrel Pinto</a> in the <a href="https://www.lerrelpinto.com/">General-purpose Robotics and AI Lab (GRAIL)</a> and by <a href="https://seyiqi.github.io/">Prof. Yiqiu (Artie) Shen</a>.
   </p>
 
   <div class="home-links" aria-label="Profile links">
-    <a class="btn btn--primary" href="mailto:zhanqiu.guo321@gmail.com"><i class="fas fa-envelope" aria-hidden="true"></i> Email</a>
+    <a class="btn btn--primary" href="mailto:zhanqiug@cs.cmu.edu"><i class="fas fa-envelope" aria-hidden="true"></i> Email</a>
     <a class="btn" href="{{ base_path }}/files/CV_Zhanqiu.pdf"><i class="fas fa-file-lines" aria-hidden="true"></i> CV</a>
     <a class="btn" href="https://github.com/Zhanqiu-Guo"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>
     <a class="btn" href="https://scholar.google.com/citations?user=86OJiI0AAAAJ&amp;hl=en"><i class="ai ai-google-scholar" aria-hidden="true"></i> Scholar</a>
@@ -48,26 +48,29 @@ redirect_from:
 
 <section id="research" class="home-section">
   <h2>Research</h2>
+  <p>
+    The common thread in my research is interactive intelligence: building models that do more than recognize static inputs, but instead ground perception, language, memory, and feedback in environments where actions matter.
+  </p>
   <div class="research-grid">
     <article>
-      <p class="item-meta">Embodied AI and vision-language-action learning</p>
-      <h3>Distribution-aware VLM/VLA training</h3>
-      <p>Developing EmbodiedMidtrain, a mid-training framework that bridges vision-language models and vision-language-action models by selecting VLA-aligned data from broader VLM corpora. Supervised by Prof. Chenyan Xiong.</p>
+      <p class="item-meta">Embodied AI and VLA models</p>
+      <h3>Grounding foundation models in physical environments</h3>
+      <p>I work on bridging vision-language models and vision-language-action models through mid-training and VLA-aligned data selection. This line of work asks how multimodal foundation models can become better policies for embodied decision making.</p>
     </article>
     <article>
       <p class="item-meta">Web agents and human-AI collaboration</p>
-      <h3>Personalized intervention-aware agents</h3>
-      <p>Built data processing and evaluation pipelines for CowCorpus, supporting LLM fine-tuning of web agents that model when and why users intervene during collaborative web task execution. Supervised by Prof. Graham Neubig and Prof. Jeffrey P. Bigham.</p>
+      <h3>Modeling interaction in browser environments</h3>
+      <p>I study web agents that learn from human intervention patterns during collaborative task execution. In this setting, the environment is the browser, and the agent must model not only webpage state but also when users step in, correct, or guide behavior.</p>
     </article>
     <article>
       <p class="item-meta">Open-world mobile manipulation</p>
-      <h3>Dynamic robot memory</h3>
-      <p>Built and deployed online spatio-semantic memory for mobile manipulation, maintaining dynamic 3D point-cloud memory for open-vocabulary object localization, search, and recovery in changing environments. The DynaMem work appeared at ICRA 2025.</p>
+      <h3>Memory for changing physical worlds</h3>
+      <p>At NYU GRAIL, I worked on DynaMem, an online spatio-semantic memory system for mobile manipulation. The system maintains dynamic 3D point-cloud memory so robots can localize, search for, and recover objects as scenes change over time.</p>
     </article>
     <article>
-      <p class="item-meta">Clinical language models</p>
-      <h3>Radiology report understanding</h3>
-      <p>Engineered a knowledge distillation pipeline that compresses GPT-4o-style reasoning into Llama-3-8B using 31k clinical report pairs, confidence learning, and LoRA fine-tuning for noisy-label filtering.</p>
+      <p class="item-meta">Clinical multimodal AI</p>
+      <h3>Reasoning over medical data and reports</h3>
+      <p>With Prof. Artie Shen, I worked on clinical LLMs for radiology report understanding. This work connects the same multimodal interaction theme to healthcare, where models must reason over text, imaging context, and structured clinical signals.</p>
     </article>
   </div>
 </section>
