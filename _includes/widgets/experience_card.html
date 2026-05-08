@@ -16,7 +16,7 @@
                                     <div class="media-body">
                                         <div class="d-flex align-items-start">
                                             <div class="mr-2">{{ item.name }}</div>
-                                            <div class="ml-auto no-break"><em>{{ item.date }}</em></div>
+                                            <div class="small text-muted ml-auto no-break">{{ item.date }}</div>
                                         </div>
                                         <div class="small">{{ item.dept }}</div>
                                         <div class="small">{{ item.position }}</div>
@@ -41,7 +41,7 @@
                                     <div class="media-body">
                                         <div class="d-flex align-items-start">
                                             <div class="mr-2">{{ item.name }}</div>
-                                            <div class="ml-auto no-break"><em>{{ item.date }}</em></div>
+                                            <div class="small text-muted ml-auto no-break">{{ item.date }}</div>
                                         </div>
                                         <div class="small">{{ item.dept }}</div>
                                         <div class="small">{{ item.position }}</div>
@@ -67,7 +67,7 @@
                                             <div class="text-muted">{{ item.detail }}</div>
                                             {% endif %}
                                         </div>
-                                        <div class="ml-auto no-break"><em>{{ item.date }}</em></div>
+                                        <div class="text-muted ml-auto no-break">{{ item.date }}</div>
                                     </div>
                                 </li>
                                 {% endfor %}
